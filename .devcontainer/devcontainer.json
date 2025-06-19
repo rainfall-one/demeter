@@ -26,12 +26,12 @@
 		}
 	},
 	"portsAttributes": {
-        "23624": {
+        "3000": {
             "label": "CodeForge",
             "onAutoForward": "openPreview"
         }
     },
-	"forwardPorts": [23264]
+	"forwardPorts": [3000]
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
