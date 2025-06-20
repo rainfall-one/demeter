@@ -1,12 +1,12 @@
 # Project Demeter
 
-**Demeter** is the home of **Rainfall IPForge** — a collaborative, extensible, metered, decentralised and AI-powered intellectual property development platform .
+**Demeter** is the home of **Rainfall OmniType** — a collaborative, extensible, metered, decentralised and AI-powered intellectual property development platform .
 
-Rainfall IPForge is designed to accelerate collateral (code plus content) development, foster collaboration, and provide a robust foundation for building, sharing, and managing IP across networks.
+Rainfall OmniType is designed to accelerate collateral (code plus content) development, foster collaboration, and provide a robust foundation for building, sharing, and managing IP across networks.
 
-## About Rainfall IPForge
+## About Rainfall OmniType
 
-Rainfall IPForge aims to:
+Rainfall OmniType aims to:
 - Enable rapid prototyping and collateral generation.
 - Support seamless integration with Rainfall’s suite of tools and services.
 - Provide a modern, developer-friendly environment for individuals and teams.
