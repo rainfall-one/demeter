@@ -1,13 +1,13 @@
 # Project Demeter
 
-**Demeter** is the home of **Rainfall CodeForge** — a collaborative, extensible, and AI-powered code development platform by the Rainfall team.
+**Demeter** is the home of **Rainfall IPForge** — a collaborative, extensible, metered, decentralised and AI-powered intellectual property development platform .
 
-Rainfall CodeForge is designed to accelerate software development, foster collaboration, and provide a robust foundation for building, sharing, and managing code projects across the Rainfall ecosystem.
+Rainfall IPForge is designed to accelerate collateral (code plus content) development, foster collaboration, and provide a robust foundation for building, sharing, and managing IP across networks.
 
-## About Rainfall CodeForge
+## About Rainfall IPForge
 
-Rainfall CodeForge aims to:
-- Enable rapid prototyping and code generation.
+Rainfall IPForge aims to:
+- Enable rapid prototyping and collateral generation.
 - Support seamless integration with Rainfall’s suite of tools and services.
 - Provide a modern, developer-friendly environment for individuals and teams.
 

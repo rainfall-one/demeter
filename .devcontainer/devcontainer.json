@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/debian
 {
-	"name": "Demeter (CodeForge)",
+	"name": "Demeter (IPForge)",
 	"waitFor": "updateContentCommand",
     "updateContentCommand": "pnpm install",
     "postAttachCommand": "pnpm dev",
@@ -27,11 +27,36 @@
 	},
 	"portsAttributes": {
         "3000": {
-            "label": "CodeForge",
+            "label": "IPForge",
             "onAutoForward": "openPreview"
-        }
+        },
+        "3001": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3002": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3003": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3004": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3005": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3006": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3007": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3008": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3009": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3010": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3011": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3012": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3013": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3014": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3015": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3016": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3017": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3018": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3019": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3020": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3021": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3022": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3023": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3024": { "label": "IPForge", "onAutoForward": "openPreview" },
+        "3025": { "label": "IPForge", "onAutoForward": "openPreview" }
     },
-	"forwardPorts": [3000]
+	"forwardPorts": [3000,3001,3002,3003,3004,3005,3006,3007,3008,3009,3010,3011,3012,3013,3014,3015,3016,3017,3018,3019,3020,3021,3022,3023,3024,3025]
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
